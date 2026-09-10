@@ -1,0 +1,1 @@
+print("Meu primeiro projeto versionado com Git!")
