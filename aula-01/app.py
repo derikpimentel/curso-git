@@ -1,7 +1,4 @@
 print("Meu primeiro projeto versionado com Git!")
 print("Estou aprendendo Git e GitHub.")
 print("Agora estou entendendo a Staging Area.")
-print("Importante sempre quebra a última linha.")
-print("Esta alteração ainda não está no Stage.")
-print("Esta alteração está apenas no Working Directory.")
 print("Esta alteração vai entrar no Stage.")
